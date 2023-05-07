@@ -1,0 +1,11 @@
+{
+	"num_of_generator_filter": 32, 
+	"num_of_discriminator_filter": 64,
+	"num_of_resnet_blocks_in_generator": 6,
+    "lambda": "10",
+    "batch_size": "1",
+    "learning_rate": 0.0002,
+    "optimizer": "Adam",
+    "beta1": "0.7",
+    "beta1": "0.999",
+}
